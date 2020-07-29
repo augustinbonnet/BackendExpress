@@ -1,0 +1,15 @@
+{
+	"name": "rep1",
+	"type": "dir",
+	"subFiles": [{
+		"name": "subRep1",
+		"type": "txt",
+		"subFiles": {}
+	},
+	{
+		"name": "subRep2",
+		"type": "png",
+		"subFiles": {}
+	}]
+}
+

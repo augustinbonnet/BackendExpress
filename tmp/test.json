@@ -1,0 +1,68 @@
+{
+    "name": "",
+    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\",
+    "subGenericFiles": [
+        {
+            "name": "rep1",
+            "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1",
+            "subGenericFiles": [
+                {
+                    "name": "a.txt",
+                    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\a.txt",
+                    "type": "txt"
+                },
+                {
+                    "name": "e.txt",
+                    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\e.txt",
+                    "type": "txt"
+                },
+                {
+                    "name": "r.PNG",
+                    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\r.PNG",
+                    "type": "png"
+                },
+                {
+                    "name": "subRep1",
+                    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\subRep1",
+                    "subGenericFiles": [
+                        {
+                            "name": "subRep1 - Copie (2).txt",
+                            "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\subRep1\\subRep1 - Copie (2).txt",
+                            "type": "txt"
+                        },
+                        {
+                            "name": "subRep1 - Copie.txt",
+                            "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\subRep1\\subRep1 - Copie.txt",
+                            "type": "txt"
+                        },
+                        {
+                            "name": "subRep1.txt",
+                            "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\subRep1\\subRep1.txt",
+                            "type": "txt"
+                        },
+                        {
+                            "name": "subRep2 - Copie.PNG",
+                            "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\subRep1\\subRep2 - Copie.PNG",
+                            "type": "png"
+                        },
+                        {
+                            "name": "subRep2.PNG",
+                            "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\subRep1\\subRep2.PNG",
+                            "type": "png"
+                        }
+                    ]
+                },
+                {
+                    "name": "t.PNG",
+                    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\t.PNG",
+                    "type": "png"
+                },
+                {
+                    "name": "z.txt",
+                    "absolutePath": "e:\\Users\\Augustin\\dev\\go-fullstack\\backend\\Directories\\rep1\\z.txt",
+                    "type": "txt"
+                }
+            ]
+        }
+    ]
+}
